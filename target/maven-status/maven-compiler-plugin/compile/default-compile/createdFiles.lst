@@ -1,0 +1,12 @@
+com\pst\crewpro\enums\AgreementTypeEnum.class
+com\pst\crewpro\enums\RateEnum.class
+com\pst\crewpro\enums\TypeEnum.class
+com\pst\crewpro\models\Comment.class
+com\pst\crewpro\models\Profile.class
+com\pst\crewpro\models\Reduction.class
+com\pst\crewpro\config\ProfilesClientConfig.class
+com\pst\crewpro\client\ProfilesClient.class
+com\pst\crewpro\models\Error.class
+com\pst\crewpro\models\Errors.class
+com\pst\crewpro\models\Agreement.class
+com\pst\crewpro\enums\PeriodEnum.class
